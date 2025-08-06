@@ -1,0 +1,6 @@
+__pycache__/
+spk*.std
+*.dat
+x86_64/
+*.log
+*.csv
