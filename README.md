@@ -1,6 +1,10 @@
+### General information
+
+The code provided here serves to run the busyring benchmark with (Core)NEURON. It has been used to compare the performance of CoreNEURON with Arbor. Please find more information in [this](https://doi.org/10.48550/arXiv.2411.16445) paper.
+
 ### Execution
 
-You may use `run_coreneuron_busyring_benchmarks.py` to run a variety of simulation paradigms in different HPC settings.
+You may use `run_coreneuron_busyring_benchmarks.py` to run a variety of simulation paradigms in different high-performance computing settings.
 
 Use `run.sh` for single trials.
 
